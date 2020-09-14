@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="com.assignment1.CountrySearchTest" skipped="0" tests="2" time="2.22" timestamp="2020-09-12 09:16:30"><testcase classname="com.assignment1.CountrySearchTest" name="Retrieve Invalid Country code"/><testcase classname="com.assignment1.CountrySearchTest" name="Validating Republic of India"/></testsuite>
