@@ -7,6 +7,7 @@ import org.junit.runner.RunWith;
 
 import com.student.model.StudentModelTest;
 import com.student.testbase.StudentTestBaseTest;
+import com.studentapp.utils.StudentUtilsTest;
 
 import io.restassured.http.ContentType;
 import net.serenitybdd.junit.runners.SerenityRunner;
@@ -14,9 +15,9 @@ import net.serenitybdd.rest.SerenityRest;
 import net.thucydides.core.annotations.Title;
 @RunWith(SerenityRunner.class)
 public class NewStudentCreationTest extends StudentTestBaseTest{
-	static String firstName= "Nana";
-	static String lastName= "Nani";
-	static String email= "nananai@gmail.com";
+	static String firstName= "Nanaradha"+StudentUtilsTest.getRandomValue();
+	static String lastName= "Naniradha"+StudentUtilsTest.getRandomValue();
+	static String email= StudentUtilsTest.getRandomValue()+"bhartitanisha1234@gmail.com";
 	static String programme= "Social Science";
 	
 @Title("To create new student")

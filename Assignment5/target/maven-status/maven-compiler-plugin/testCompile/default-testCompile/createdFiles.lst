@@ -1,0 +1,9 @@
+com\student\testbase\StudentTestBaseTest.class
+com\assignment2\PrintCapitalTest.class
+com\assignment4\testbase\LoginTestBaseTest.class
+com\countrysearch\testbase\CountrySearchTestbaseTest.class
+com\studentapp\info\NewStudentCreationTest.class
+com\assignment2\testbase\LoginTestBaseTest.class
+com\studentapp\utils\StudentUtilsTest.class
+com\assignment1\CountrySearchTest.class
+com\valid\login\LoginScenarioTest.class

@@ -1,0 +1,8 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Country search test","Retrieve Invalid Country code","SUCCESS","2020-09-15T20:16:34.38+05:30[Asia/Calcutta]","0.0","9.62"
+"Country search test","Validating Republic of India","SUCCESS","2020-09-15T20:16:44.32+05:30[Asia/Calcutta]","0.0","0.63"
+"Print capital test","Dipsplay detail of Norway Country details","SUCCESS","2020-09-15T20:16:35.717+05:30[Asia/Calcutta]","0.0","12.3"
+"Print capital test","Validating Norway Capital","SUCCESS","2020-09-15T20:16:48.174+05:30[Asia/Calcutta]","0.0","0.67"
+"New student creation test","To create new student","SUCCESS","2020-09-15T20:16:35.114+05:30[Asia/Calcutta]","0.0","12.76"
+"Login scenario test","This is valid login","SUCCESS","2020-09-15T20:16:34.216+05:30[Asia/Calcutta]","0.0","11.41"
+"Login scenario test","This is invalid login","SUCCESS","2020-09-15T20:16:45.748+05:30[Asia/Calcutta]","0.0","1.59"
